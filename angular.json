@@ -49,6 +49,13 @@
                   "type": "initial",
                   "maximumWarning": "2mb",
                   "maximumError": "5mb"
+                },
+                {
+                  "type": "bundle",
+                  "name": "customers-customers-module-ngfactory",
+                  "baseline": "300b",
+                  "maximumWarning": "50b",
+                  "maximumError": "100b"
                 }
               ]
             }
